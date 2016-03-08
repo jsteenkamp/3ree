@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
 import Header from '../components/Header';
-import EventList from '../components/EventList';
 import EventTicker from '../components/EventTicker';
 import AsyncBar from '../components/AsyncBar';
 import EventInput from '../components/EventInput';
